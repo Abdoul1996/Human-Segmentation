@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+albumentations
+segmentation-models-pytorch
+pretrainedmodels
+efficientnet-pytorch
+timm
